@@ -5,6 +5,9 @@ body {
   color: #6c7279;
   background-color: rgb(180, 162, 162);
   -webkit-font-smoothing: antialiased;
+  /*
+    Новый комментарий
+  */
 }
 
 *,
